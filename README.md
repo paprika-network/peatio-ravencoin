@@ -18,7 +18,7 @@ save and exit
 
 open the file wallet_api.rb in the same folder and paste this
 
-Peatio::Wallet.registry[:ravenoind] = Ravencoin::Wallet
+Peatio::Wallet.registry[:ravencoind] = Ravencoin::Wallet
 
 save and exit
 
